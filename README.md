@@ -58,6 +58,6 @@ In the final year of my B.Tech, I'm deeply passionate about frontend development
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-rocky&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-JS&layout=compact)
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-rocky&show_icons=true&theme=radical)
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-JS&show_icons=true&theme=radical)
